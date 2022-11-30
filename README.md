@@ -1,0 +1,2 @@
+# MultiClassNLP
+Logisztikus regresszó alkalmazása multiosztályozási feladathoz
